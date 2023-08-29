@@ -15,7 +15,7 @@ This Python script converting mp3 to wav and then doing speech to text.
 1. Download or Clone this repository:
 
 ```bash
-git clone [https://github.com/yourusername/yourrepository.git](https://github.com/MrX0955/Speech-To-Text.git)
+git clone https://github.com/MrX0955/Speech-To-Text.git
 ```
 
 2. Install the required Python packages:
