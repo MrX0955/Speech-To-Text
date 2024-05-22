@@ -24,6 +24,14 @@ git clone https://github.com/MrX0955/Speech-To-Text.git
 pip3 install -r requirements.txt
 ```
 
+- Install the FFmpeg Here And Add your $PATH
+[https://ffmpeg.org/download.html](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl-shared.zip)
+Or Use Git For Install
+```bash
+git clone https://git.ffmpeg.org/ffmpeg.git ffmpeg
+```
+
+
 ## Usage
 
 1. Run the script:
